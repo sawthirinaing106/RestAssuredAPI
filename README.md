@@ -1,9 +1,9 @@
 
 ---
 
-## 🧩 Framework Features
+## Framework Features
 
-### ✔ Request & Response Specifications  
+### Request & Response Specifications  
 Centralized configuration for:
 - Base URI  
 - Base Path  
@@ -11,7 +11,7 @@ Centralized configuration for:
 - Authentication  
 - Logging  
 
-### ✔ Reusable API Methods  
+### Reusable API Methods  
 Supports:
 - `GET`
 - `POST`
@@ -19,28 +19,28 @@ Supports:
 - `DELETE`
 - `PATCH`
 
-### ✔ TestNG Integration  
+### TestNG Integration  
 - Test grouping  
 - Assertions  
 - Parallel execution support  
 
-### ✔ JSON Payload Handling  
+### JSON Payload Handling  
 - External JSON files  
 - POJO serialization/deserialization  
 
-### ✔ Environment Support  
+###  Environment Support  
 Switch between environments using:
 - `config.properties`
 - Maven profiles  
 - System variables  
 
-### ✔ Logging & Reporting  
+###  Logging & Reporting  
 - Request/response logs  
 - TestNG HTML reports  
 
 ---
 
-## 🧪 Example Test Flow
+##  Example Test Flow
 
 1. Build request specification  
 2. Add headers / params  
