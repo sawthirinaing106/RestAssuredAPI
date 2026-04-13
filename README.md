@@ -53,7 +53,7 @@ Switch between environments using:
 
 ---
 
-## ▶️ How to Run Tests
+## How to Run Tests
 
 ### **1. Clone the repository**
 ```bash
